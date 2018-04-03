@@ -1,13 +1,13 @@
-## Producse pdf certificates for names in an excel file
+## Generate pdf certificates for names in an excel file
 
 ### Instructions
 
-1. Download or clone the certificate.py file.
+1. Download or clone the certificate.py file (or the whole repo).
 
 2. Install dependencies:
-	- pip/conda install reportlab
+	- `pip/conda install reportlab`
 
-	- pip/conda install pandas
+	- `pip/conda install pandas`
 	
 3. Put  the excel file containing the names and the logo in the same folder as the script.
 
